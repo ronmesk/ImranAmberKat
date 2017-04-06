@@ -7,7 +7,7 @@
 * Visit friends in SF
 * Catch up on Homework
 
-#### Imran's plans for the weekend
+### Imran's plans for the weekend
 
 * play basketball 
 * eat food 
